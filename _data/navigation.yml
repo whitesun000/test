@@ -1,0 +1,6 @@
+- name: Home
+  link: "/test/"
+- name: About
+  link: "/test/about/"
+- name: Blog
+  link: "/test/blog/"
