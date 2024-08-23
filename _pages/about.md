@@ -12,8 +12,8 @@
           <nav class="nav">
             <ul>
                   <li><a href="index.html">Home</a></li>
-                  <li><a href="_pages/about.html">About</a></li>
-                  <li><a href="_pagae/blog.html">Blog</a></li>
+                  <li><a href="_pages/about.md">About</a></li>
+                  <li><a href="_pagae/blog.md">Blog</a></li>
             </ul>
           </nav>
   </header>
