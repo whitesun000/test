@@ -1,5 +1,10 @@
 title: My Programming Blog
 description: A blog about my programming journey
-baseurl: "/test" # リポジトリ名が "test" の場合
-url: "https://whitesun000.github.io"
+baseurl: "" # リポジトリ名が "your-username.github.io" の場合は空にします
+url: "https://your-username.github.io"
 theme: minima
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
