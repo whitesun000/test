@@ -1,6 +1,6 @@
 title: My Programming Blog
 description: A blog about my programming journey
-baseurl: "/test" # リポジトリ名に一致
+baseurl: "" # リポジトリ名が "your-username.github.io" の場合は空にします
 url: "https://your-username.github.io"
 theme: minima
 collections:
