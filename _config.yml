@@ -1,6 +1,6 @@
 title: "My Programming Blog"
 description: "A blog about my programming journey"
 baseurl: "/test" # リポジトリ名
-url: "https://whitesun000.github.io" # あなたのGitHub Pages URL
-theme: jekyll-theme-cayman
+url: "https://whitesun000.github.io/test/" # GitHub Pages URL
+theme: minima
 
