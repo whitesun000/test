@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Blog
-permalink: /blog/
+permalink: /test/blog/
 ---
 <h1>Blog</h1>
 <ul>
