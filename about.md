@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: default
 title: "About"
+permalink: /about/
 ---
 
-このページでは、あなたのブログについて説明できます。
+This is the About page where you can tell your visitors about your blog, yourself, or anything else you'd like to share.
