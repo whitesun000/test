@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-permalink: /about/
+permalink: /test/_pages/about/
 ---
 
 このページでは、あなたのブログについて説明できます。
